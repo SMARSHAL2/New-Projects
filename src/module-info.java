@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ternus
+ *
+ */
+module GitTeste {
+}
